@@ -1,0 +1,4 @@
+Lab 2: Recursion — Tower of Hanoi
+
+Implemented the Tower of Hanoi problem in C. 
+I wrote a recursive function to move disks between pegs according to the problem’s rules, demonstrating how recursive calls break down a complex task into smaller subproblems. 
