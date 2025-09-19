@@ -1,0 +1,4 @@
+Lab 3: Sorting
+
+Implemented and analyzed insertion sort and merge sort algorithms in C. 
+Compared their performance by evaluating best, worst, and average case runtimes, demonstrating differences between incremental and divide-and-conquer approaches.
