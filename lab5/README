@@ -1,0 +1,4 @@
+Lab 5: XML Balancing, Stacks, Hash Tables, and Heaps
+
+Developed an algorithm to check whether XML start-tags and end-tags balance by using a stack data structure to track previously read start-tags. 
+Implemented direct-mapped tables and hash tables for efficient lookup. Designed a heap data structure and printed its structure as an XML expression.
